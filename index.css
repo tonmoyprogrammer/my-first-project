@@ -5,8 +5,23 @@
 }
 #con
 {
-    margin:0px auto 20px auto;
-     padding:0px auto 20px auto;
-    border:5px solid rgb(140,220,50);
+   width:600px;
+   margin:0px auto 20px auto;
+    border-bottom: 10px solid black;
+    box-shadow: 3px 3px 5px blue;
+
     
 }
+#con img{
+    width:100%;
+    float:left;
+    height:auto;
+    padding-bottom: 25px;;
+   
+    
+}
+div #con p
+{
+   width:500px;
+   padding-left:25px ;
+} 
